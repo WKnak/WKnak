@@ -5,8 +5,8 @@
 </div>
 <br />
 
-[![WKnak GitHub stats](https://github-readme-stats.vercel.app/api?username=WKnak&count_private=true&show_icons=true)](https://github.com/WKnak/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WKnak&layout=compact)](https://github.com/WKnak/github-readme-stats)
+[![WKnak GitHub stats](https://github-readme-stats.vercel.app/api?username=WKnak&count_private=true&show_icons=true)](https://github.com/WKnak/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WKnak&layout=compact)](https://github.com/WKnak/)
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
