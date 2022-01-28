@@ -1,3 +1,8 @@
+<div>
+ <a href="https://www.linkedin.com/in/williamknak/" target="_blank"><img align="top" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<br />
+
 [![WKnak GitHub stats](https://github-readme-stats.vercel.app/api?username=WKnak&count_private=true&show_icons=true)](https://github.com/WKnak/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WKnak&layout=compact)](https://github.com/WKnak/github-readme-stats)
 
@@ -18,21 +23,3 @@
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
-
-<!--
-
-### Hi there 👋
-
-**WKnak/WKnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
